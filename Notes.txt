@@ -1,0 +1,7 @@
+# Lesson of today's Class
+
+     Covered how to create a new repository in GitHub
+        How to handle merge conflicts in GitHub and Git terminal
+        Editing code and doing ACP to reflect changes on GitHub
+        
+
